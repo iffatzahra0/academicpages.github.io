@@ -25,17 +25,17 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Iffat Zahra"
-  pronouns         : # example: "she/her"  
+ # pronouns         : # example: "she/her"  
   bio              : "NUST EE'28"
   location         : "Islamabad,Pakistan"
-  employer         : 
+  #employer         : 
   uri              : # URL
   email            : "iffatzahra2005@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    :
+  #googlescholar    :
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : 
